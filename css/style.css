@@ -1,0 +1,187 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body  {
+    font-family: Montserrat;
+    background-color: #f5f7fa;
+    padding: 40px;
+}
+.main__container{
+    display: flex;
+    background-color: #fff;
+}
+.side__bar{
+    width: 370px;
+    padding-top: 40px;
+    background-color: #1e2939;
+}
+.my_photo{
+    width: 370px;
+}
+
+.contacts{
+    margin: 60px 40px 0 40px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+
+.contact_link{
+    color: #747b85;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+   
+}
+
+.contact_link_type{
+    padding-right: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+.main__info{
+    padding: 110px 90px;
+
+}
+
+.skills{
+    margin: 55px 40px;
+    
+    
+}
+.title_skills{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 20px;
+
+}
+.tech_skils_items{
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-left: 15px;
+}
+.tech_text{
+    color: #c7cace;
+}
+
+.profession{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    
+}
+
+.name{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+.short__info{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 64px;
+}
+.Projects{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    
+}
+.projects_list{
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+
+}
+.projects_item{
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    text-decoration: none;
+}
+.project_ittems{
+    font-weight: bold;
+}
+.tech_name{
+ font-weight: 400;
+}
+
+.project_container{
+    margin-bottom: 50px;
+}
+
+.experience{
+    margin-left: 15px;
+
+}
+.experience_title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left:-15px;
+    
+}
+.position{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 24px;
+}
+.marked{
+    color: orange;
+}
+.period{
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+.bold{
+    color: #000;
+
+}
+
+.education{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+
+}
+
+.univercity{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    
+}
+.course{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
